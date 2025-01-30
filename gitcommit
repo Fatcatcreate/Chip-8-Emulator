@@ -1,0 +1,15 @@
+#!/bin/bash
+if [ -z "$1" ]; then
+  echo "Please provide the repository link."
+  exit 1
+fi
+REPO_LINK=$1
+if [ ! -d ".git" ]; then
+  echo "This is not a git repository."
+  exit 1
+fi
+git add .
+git commit -m "Porting ishmonkey commits to Git"
+git remote add origin $REPO_LINK
+git push -u origin main
+
