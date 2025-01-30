@@ -2,7 +2,7 @@
 
 For the game i have 0 clue what the controsl are<br />
 play around with the controls but it takes in 
-1234<br />
+<br />1234<br />
 Q W E R<br />
 A S D F<br />
 Z X C V<br />
