@@ -1,6 +1,6 @@
 # Chip-8
 
-For the game i have 0 clue what the controsl are<br />
+For each game i have 0 clue what the controsl are<br />
 play around with the controls but it takes in 
 <br />1234<br />
 Q W E R<br />
